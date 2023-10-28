@@ -1,1 +1,3 @@
 # confetti-everything
+
+npm package
